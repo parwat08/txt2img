@@ -1,0 +1,10 @@
+.custom-area {
+  height: 350px !important;
+  width: 350px;
+  text-align: center !important;
+  margin-top: 15px;
+}
+
+.label {
+  float: left;
+}
